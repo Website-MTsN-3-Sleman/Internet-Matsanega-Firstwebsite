@@ -1,10 +1,102 @@
-### Responsive Portfolio website using Html, Css and JavaScript.
+Internet-Matsanega-Firstwebsite
 
-![Food website](https://github.com/codersgyan/responsive-portfolio-website/blob/master/82380648_159883675567106_2350191587381739520_n.jpg?raw=true)
+LINK = https://website-mtsn-3-sleman.github.io/Internet-Matsanega-Firstwebsite/
+
+TUGAS IT MTsN 3 SLEMAN PERTAMA
 
 
-#### Demo: https://codersgyan.github.io/responsive-portfolio-website/
 
 
-🙏 If you find this repo helpful then don't forget to give a start ❇️  to this repository. :)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[MASIH BURIK] HEHE
